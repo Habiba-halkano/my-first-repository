@@ -1,1 +1,32 @@
 https://glitch.com/~my-first-website
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" 
+
+    <title>My first website!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- this is the start of content -->
+    <h1>
+      My first website!
+    </h1>
+    <p>
+      Hello 👋 Im habiba Halkano a computer science student at Moi university Kenya and this is my first project.I'm excited and cant wait to be a full stack developer!
+ <img  src="" alt="excited!" >
+      <br>
+      </br>
+      Building a new web is really exciting and im ready for this beautiful journey 💞.By habz halka!
+      
+    </p>
+  </body>
+</html>
+
